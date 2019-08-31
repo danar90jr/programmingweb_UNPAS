@@ -3,3 +3,8 @@ h1 {
   font-family: arial;
   font-size: 60px;
 }
+
+body {
+  background-color: grey;
+  background-image: url(gambar/papyrus.png);
+}
