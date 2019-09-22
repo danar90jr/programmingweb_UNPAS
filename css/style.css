@@ -91,7 +91,7 @@ body {
   height: 280px;
   background-image: url(img/hero.jpg);
   background-position: bottom;
-  background-size: cover;
+  background-size: 500px;
   border-top: 5px solid lightgreen;
   border-bottom:
 }
